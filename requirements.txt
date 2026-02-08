@@ -4,3 +4,4 @@ langchain-openai
 langchain-tavily
 gradio
 python-dotenv
+langchain-core
